@@ -1,3 +1,3 @@
-# NSWE
+# SWE-A
 Software Engineering assignments
 
