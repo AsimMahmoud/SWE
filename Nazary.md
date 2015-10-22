@@ -14,4 +14,4 @@
 8. (question 8)A default constructor is a constructor that is used to create an object 
     when you don’t provide explicit initialization values and is called with no arguments.
 
-9. (question 9)(this) pointer points to the object itself. 
+10. (question 10)(this) pointer points to the object itself. 
